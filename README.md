@@ -25,6 +25,9 @@ Key skills practiced include geographic mapping, bar charts, heat maps, bubble m
   - Geographic plotting  
   - City-level granularity  
   - Title: *"Average Employment % by City"*
+ 
+    <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/7242eaad-222c-49e9-99b5-05c0af752370" />
+
 
 ### 2. Bar Chart – Employment Change per Industry
 - **Purpose:** Compare employment changes across industries.
@@ -32,6 +35,9 @@ Key skills practiced include geographic mapping, bar charts, heat maps, bubble m
   - Industry filter  
   - Axis labels and sorting  
   - Title: *"Employment Change by Industry"*
+ 
+    <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/9a2da541-dc7e-4c31-99c3-10d275d41eba" />
+
 
 ### 3. Heat Map – Top 10 Industries by Employment
 - **Purpose:** Highlight the top 10 industries based on employment figures.
@@ -40,12 +46,17 @@ Key skills practiced include geographic mapping, bar charts, heat maps, bubble m
   - Industry ranking  
   - Title: *"Top 10 Industries by Employment"*
 
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/f48785bd-3fad-4425-bed5-f56d2f8cf1fe" />
+
 ### 4. Bubble Map – Employment by City
 - **Purpose:** Visualize employment volume across cities using bubble size.
 - **Features:**  
   - Bubble size represents employment count  
   - Interactive tooltips  
   - Title: *"Employment Distribution by City"*
+ 
+  <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/a695b4a3-40ff-488f-bf91-2585082ced06" />
+
 
 ---
 
@@ -71,6 +82,3 @@ All visualizations were combined into a single dashboard titled **"UK Employment
 - Publishing to Tableau Public
 
 ---
-
-This project is for **educational purposes** only.  
-Dataset used for practice in Tableau visualization.
